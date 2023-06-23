@@ -43,8 +43,9 @@ As already happen by installing **'FRETENATOR_(Rowe et al 2022)'**, it is needed
  
 3. Press ``Run`` button to compile the script.
     <p align="center">
-    <img width="500" height="350" src="https://github.com/cnio-cmu-BioimageAnalysis/cellQuantification_code/assets/83207172/1886af45-c01a-44d3-804b-30e289a2aa38">
+    <img width="500" height="350" src="https://github.com/acayuelalopez/FretCellType/assets/83207172/110ca270-797b-46c1-adf3-666bdb6646c9">
     </p>
+
 
 4. Then a dialog will be displayed in order to set the input directory path in which the images to be analyzed are stored and the output directory path to save the outputs, along with the processing parameters.
    <p align="center">
@@ -57,12 +58,13 @@ As already happen by installing **'FRETENATOR_(Rowe et al 2022)'**, it is needed
     <img width="350" height="150" src="https://github.com/cnio-cmu-BioimageAnalysis/cellQuantification_code/assets/83207172/ae08ebc2-a720-451c-8a50-542a708972fa">
     </p>
  
-6. Finally, you will be enabled to check the outputs (``CSV table`` and ``ZIP RoiSets`` corresponding for each area of interest) in the output directory previously selected.
+6. Finally, an output directory per file analyzed will be created to store the output files (``Summary_xxxx.csv``, ``Results_of_xxxx.csv``, ``Label map xxx.tif``, ``Threshold image for xxx.tif``) in the output directory previously selected.
   <p align="center">
-    <img width="600" height="80" src="https://github.com/cnio-cmu-BioimageAnalysis/cellQuantification_code/assets/83207172/bcd520f9-fed0-44f6-aade-757450d05539">
+    <img width="250" height="90" src="https://github.com/acayuelalopez/FretCellType/assets/83207172/727c42d8-8a3c-4248-9bcd-3c8e7a747d69">
+    </p>
+ <p align="center">
+    <img width="250" height="90" src="https://github.com/acayuelalopez/FretCellType/assets/83207172/74fbb58c-3dc2-42c0-999f-dcd9475d5752">
     </p>
 
-- [x] To check ``ZIP RoiSets`` through ImageJ/Fij, **NOTE THAT** you do not have to unzip these files. Go to ``RoiManager``>``More``>``Open``>``imageTitle_RoiSet``
-<p align="center">
-    <img width="120" height="150" src="https://github.com/cnio-cmu-BioimageAnalysis/cellQuantification_code/assets/83207172/d6d9a16c-14c8-4867-b925-cfe7031cb12e">
-    </p>
+
+
