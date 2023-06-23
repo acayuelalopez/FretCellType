@@ -1,5 +1,5 @@
 # FretCellType
-This is a Groovy script version of 'FRETENATOR_(Rowe et al 2022)' containing cell-type based classification analysis.
+This is a Groovy script version of 'FRETENATOR_(Rowe et al 2022)' containing cell-type based classification analysis. The details and aim of this analysis are explained in the source repo (https://github.com/JimageJ/ImageJ-Tools/tree/master). This is solely an extension.
 ## Installation Prerequisites
 As already happen by installing **'FRETENATOR_(Rowe et al 2022)'**, it is needed to have previously installed the **CLIJ** and **CLIJ2** libraries by activating their corresponding update site through FIJI. 
 
